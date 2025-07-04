@@ -6,3 +6,8 @@ This project was developed as part of a university module by our group to improv
  - Handle orders
  - Handle stock and waste
  - Handle menu creation
+
+## Running:
+ - Download project and open with IntelliJ
+ - Replace database url, usernames and passwords
+ - Run Main
