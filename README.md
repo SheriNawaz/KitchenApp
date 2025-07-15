@@ -9,5 +9,8 @@ This project was developed as part of a university module by our group to improv
 
 ## Running:
  - Download project and open with IntelliJ
- - Replace database url, usernames and passwords
- - Run Main
+ - Connect your own database to the program by:
+   - Replace the Strings URL, username, password, with the details of your own private database in Driver.java, any file ending in DB.java
+ - Run Main to text
+ - File -> Project Structure -> Artifacts -> New To create a Jar file
+ - This Jar file will be the entry point to the application
